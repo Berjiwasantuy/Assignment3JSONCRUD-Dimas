@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy S15",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "7.999.000",
+      "description": "The Samsung Galaxy S15 is the latest flagship smartphone with a stunning AMOLED display, powerful camera, and top-notch performance.",
+      "createdAt": "2023-09-20",
+      "id": 1
+    },
+    {
+      "name": "Nokia X300",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "2.990.000",
+      "description": "The Nokia X300 is a stylish red-colored smartphone with a focus on camera quality and user-friendly features.",
+      "createdAt": "2023-09-20",
+      "id": 2
+    },
+    {
+      "name": "Apple MacBook Pro",
+      "brand": "Apple",
+      "category": "Computers",
+      "price": "14.999.000",
+      "description": "The Apple MacBook Pro is a high-performance laptop designed for professionals, featuring a stunning Retina display and powerful M1 Pro chip.",
+      "createdAt": "2023-09-20",
+      "id": 3
+    },
+    {
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "category": "Computers",
+      "price": "12.999.000",
+      "description": "The Dell XPS 13 is a premium ultrabook known for its slim design, impressive display, and excellent battery life.",
+      "createdAt": "2023-09-20",
+      "id": 4
+    },
+    {
+      "name": "HP Pavilion Gaming Desktop",
+      "brand": "HP",
+      "category": "Computers",
+      "price": "8.999.000",
+      "description": "The HP Pavilion Gaming Desktop is a powerful gaming PC equipped with the latest Intel Core i7 processor and NVIDIA GeForce graphics.",
+      "createdAt": "2023-09-20",
+      "id": 5
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": "14.990.000",
+      "description": "The Lenovo ThinkPad X1 Carbon is a premium business laptop known for its durability, comfortable keyboard, and vibrant display.",
+      "createdAt": "2023-09-20",
+      "id": 6
+    },
+    {
+      "name": "Sony PlayStation 5",
+      "brand": "Sony",
+      "category": "Other",
+      "price": "4.999.000",
+      "description": "The Sony PlayStation 5 is a next-gen gaming console offering immersive gameplay and stunning graphics.",
+      "createdAt": "2023-09-20",
+      "id": 7
+    },
+    {
+      "name": "GoPro HERO9 Black",
+      "brand": "GoPro",
+      "category": "Cameras",
+      "price": "32.499.999",
+      "description": "The GoPro HERO9 Black is a versatile action camera that captures stunning 4K videos and 20MP photos.",
+      "createdAt": "2023-09-20",
+      "id": 8
+    },
+    {
+      "name": "Garmin GPSMAP 64sx",
+      "brand": "Garmin",
+      "category": "GPS",
+      "price": "2.490.000",
+      "description": "The Garmin GPSMAP 64sx is a rugged handheld GPS device designed for outdoor enthusiasts and adventurers.",
+      "createdAt": "2023-09-20",
+      "id": 9
+    },
+    {
+      "name": "Bose QuietComfort 45",
+      "brand": "Bose",
+      "category": "Accessories",
+      "price": "299.000",
+      "description": "The Bose QuietComfort 45 headphones offer industry-leading noise cancellation and premium audio quality.",
+      "createdAt": "2023-09-20",
+      "id": 10
+    }
+  ]
+}
